@@ -1,0 +1,9 @@
+id,title,author,genre,available
+1,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,True
+2,Pride and Prejudice,Jane Austen,Romance,True
+3,To Kill a Mockingbird,Harper Lee,Classic,False
+4,1984,George Orwell,Dystopian,True
+5,The Lord of the Rings,J.R.R. Tolkien,Fantasy,True
+6,Foundation,Isaac Asimov,Science Fiction,True
+7,Dune,Frank Herbert,Science Fiction,False
+8,Brave New World,Aldous Huxley,Dystopian,True

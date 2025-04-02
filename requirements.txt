@@ -1,0 +1,10 @@
+streamlit
+pandas
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+faiss-cpu # Or faiss-gpu if you have CUDA and compatible hardware
+pypdf
+tiktoken
